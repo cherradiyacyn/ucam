@@ -1,2 +1,2 @@
 # ucam
-some mini-projects that I've worked in 2020/2021
+some micro-projects that I've worked in 2020/2021
